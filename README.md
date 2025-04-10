@@ -12,3 +12,6 @@ Redis — caching
 Pydantic — data validation
 
 Pytest - registration tests
+
+possible additions:
+docker, separation of redis from services,  authorization system with mail, add payment, pagination 
